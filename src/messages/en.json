@@ -1,0 +1,109 @@
+{
+  "site": {
+    "name": "Deerhayer Market",
+    "description": "Your complete online shopping destination",
+    "tagline": "Shop with confidence, live the best"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "orders": "My Orders",
+    "account": "My Account",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "admin": "Dashboard",
+    "search": "Search..."
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "quickOrder": "Quick Order",
+    "compare": "Compare",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "reviews": "Reviews",
+    "description": "Description",
+    "details": "Details",
+    "questions": "Ask about this product",
+    "relatedProducts": "Related Products",
+    "recentlyViewed": "Recently Viewed",
+    "soldBy": "Sold by"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "discount": "Discount",
+    "total": "Total",
+    "checkout": "Checkout",
+    "applyCoupon": "Apply Coupon",
+    "couponPlaceholder": "Enter coupon code"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shippingAddress": "Shipping Address",
+    "paymentMethod": "Payment Method",
+    "paymentOnDelivery": "Cash on Delivery",
+    "cardPayment": "Credit Card",
+    "placeOrder": "Place Order",
+    "orderConfirmed": "Order Confirmed",
+    "orderNumber": "Order Number"
+  },
+  "account": {
+    "profile": "Profile",
+    "orders": "My Orders",
+    "addresses": "Addresses",
+    "wishlist": "Wishlist",
+    "loyaltyPoints": "Loyalty Points",
+    "coupons": "Coupons",
+    "settings": "Settings"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Name",
+    "phone": "Phone",
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "orContinueWith": "Or continue with",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "returns": "Return Policy",
+    "shippingInfo": "Shipping Info",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "noResults": "No results found",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "confirm": "Confirm",
+    "close": "Close"
+  }
+}

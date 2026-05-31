@@ -1,0 +1,109 @@
+{
+  "site": {
+    "name": "سوق ديرحافر",
+    "description": "متجر إلكتروني متكامل لكل احتياجاتك",
+    "tagline": "تسوق بثقة، عيش الأفضل"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "products": "المنتجات",
+    "categories": "التصنيفات",
+    "cart": "سلة المشتريات",
+    "wishlist": "المفضلة",
+    "orders": "طلباتي",
+    "account": "حسابي",
+    "login": "تسجيل دخول",
+    "register": "إنشاء حساب",
+    "logout": "تسجيل خروج",
+    "admin": "لوحة التحكم",
+    "search": "بحث..."
+  },
+  "product": {
+    "addToCart": "أضف إلى السلة",
+    "addToWishlist": "أضف إلى المفضلة",
+    "removeFromWishlist": "إزالة من المفضلة",
+    "quickOrder": "طلب سريع",
+    "compare": "مقارنة",
+    "outOfStock": "نفد من المخزون",
+    "inStock": "متوفر",
+    "reviews": "التقييمات",
+    "description": "الوصف",
+    "details": "التفاصيل",
+    "questions": "أسئلة عن المنتج",
+    "relatedProducts": "منتجات مشابهة",
+    "recentlyViewed": "تم مشاهدته مؤخراً",
+    "soldBy": "البائع"
+  },
+  "cart": {
+    "title": "سلة المشتريات",
+    "empty": "سلتك فارغة",
+    "continueShopping": "مواصلة التسوق",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "discount": "الخصم",
+    "total": "المجموع",
+    "checkout": "إتمام الطلب",
+    "applyCoupon": "تطبيق الكوبون",
+    "couponPlaceholder": "أدخل كود الكوبون"
+  },
+  "checkout": {
+    "title": "إتمام الطلب",
+    "shippingAddress": "عنوان التوصيل",
+    "paymentMethod": "طريقة الدفع",
+    "paymentOnDelivery": "الدفع عند الاستلام",
+    "cardPayment": "بطاقة ائتمان",
+    "placeOrder": "تأكيد الطلب",
+    "orderConfirmed": "تم تأكيد الطلب بنجاح",
+    "orderNumber": "رقم الطلب"
+  },
+  "account": {
+    "profile": "الملف الشخصي",
+    "orders": "طلباتي",
+    "addresses": "العناوين",
+    "wishlist": "المفضلة",
+    "loyaltyPoints": "نقاط الولاء",
+    "coupons": "الكوبونات",
+    "settings": "الإعدادات"
+  },
+  "auth": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "name": "الاسم",
+    "phone": "رقم الهاتف",
+    "login": "تسجيل دخول",
+    "register": "إنشاء حساب",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "orContinueWith": "أو تابع باستخدام",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟"
+  },
+  "footer": {
+    "about": "عن المتجر",
+    "contact": "اتصل بنا",
+    "privacy": "سياسة الخصوصية",
+    "terms": "الشروط والأحكام",
+    "returns": "سياسة الإرجاع والاستبدال",
+    "shippingInfo": "معلومات الشحن والتوصيل",
+    "followUs": "تابعنا على",
+    "rights": "جميع الحقوق محفوظة"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "search": "بحث",
+    "filter": "فلترة",
+    "sort": "ترتيب",
+    "noResults": "لا توجد نتائج",
+    "showMore": "عرض المزيد",
+    "showLess": "عرض أقل",
+    "confirm": "تأكيد",
+    "close": "إغلاق"
+  }
+}
